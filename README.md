@@ -26,18 +26,3 @@ python etl.py
 
 - pandas : version 1.3.3
 - json : version standard de Python
-
-## Structure du projet
-
-|-- README.md
-|-- etl.py
-|-- donnees-urgences-SOS-medecins.csv
-|-- code-tranches-dage-donnees-urgences.csv
-|-- departements-region.json
-|-- requirements.txt
-
-## Licence
-
-Ce projet est distribué sous la licence MIT. Veuillez consulter le fichier LICENCE pour plus d'informations.
-
-Cette version du README.md utilise une syntaxe Markdown pour structurer le contenu de manière lisible et organisée, facilitant ainsi la compréhension et l'utilisation du projet.
