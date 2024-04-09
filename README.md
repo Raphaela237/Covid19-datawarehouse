@@ -5,7 +5,7 @@ Ce projet vise à extraire, transformer et charger (ETL) des données relatives 
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale :
-git clone <URL_du_dépôt>
+git clone <>
 
 2. Installez les dépendances Python requises en exécutant la commande suivante dans le répertoire du projet :
 pip install -r requirements.txt
